@@ -1,0 +1,5 @@
+$( Selector ).removeProp(property)...
+
+Stop Animation
+
+$(Selector).stop(StopAll, goToEnd);
